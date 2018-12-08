@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TimeTracker</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Developed By Raju Gorai</string>
+</resources>
